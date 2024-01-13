@@ -1,7 +1,6 @@
 # Arduino-nano-with-type_C
-KiCAD porting of Arduino Nano V3.3 PCB design.
 
-This is an Arduino nano board with type c port.The original project was made for EAGLE v7. The schematic, PCB and some of the symbols/footprints are slightly modified to avoid ERC/DRC errors/warnings.
+This is an Arduino nano board with type c port instead of the popular type b.
 
 ## Acknowledgement
 
